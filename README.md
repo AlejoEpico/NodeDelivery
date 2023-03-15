@@ -1,2 +1,2 @@
 # NodeDelivery
-NodeDelivery: Simplify your product delivery with our beginner-friendly Express-based solution. With easy-to-use libraries and DoorDashClient API integration, it's the perfect tool for those new to Node.js app development looking to streamline their delivery process.
+NodeDelivery is a full-stack project built on Node.js, Express, and DoorDashClient API. It offers a streamlined online shopping experience, complete with product browsing, purchase, and delivery. With advanced components like Postman integration.
